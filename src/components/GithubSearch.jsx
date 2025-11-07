@@ -60,6 +60,7 @@ const GithubSearch = () => {
                     </div>
 
                     <div className='profile-links'>
+                        <a href={`https://twitter.com/${profile.twitter_username}`} target='_blank' rel="noreferrer" className='twitter-link'><FaXTwitter/>{profile.twitter_username}</a>
                         <a href={profile.html_url} target='_blank' rel="noreferrer" className='profile-url'><FaGithub/>View Profile</a>
                     </div>
                 </div>
