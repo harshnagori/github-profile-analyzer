@@ -1,8 +1,24 @@
-# React + Vite
+# GitHub Profile Analyzer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**GitHub Profile Analyzer** is a React-based web application that allows users to search for GitHub profiles and view key information in a clean and intuitive interface. It fetches data from the GitHub API and presents it in an organized way for quick insights.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Search GitHub users by username
+- Display profile picture, name, bio, and join date
+- Show GitHub statistics: repositories, followers, and following
+- Display location and company
+- Quick access links to GitHub and LinkedIn profiles
+- Responsive and visually appealing UI with React and React Icons
+
+---
+
+## Tech Stack
+
+- **Frontend:** React, CSS  
+- **API:** GitHub REST API  
+- **Icons:** React Icons  
+
+---
