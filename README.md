@@ -2,6 +2,8 @@
 
 **GitHub Profile Analyzer** is a React-based web application that allows users to search for GitHub profiles and view key information in a clean and intuitive interface. It fetches data from the GitHub API and presents it in an organized way for quick insights.
 
+🔗 **Live Demo:** [https://github-profile-analyzer-v2.vercel.app/](https://github-profile-analyzer-v2.vercel.app/)
+
 ---
 
 ## Features
