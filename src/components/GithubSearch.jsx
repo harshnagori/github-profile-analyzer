@@ -25,7 +25,7 @@ const GithubSearch = () => {
     };
   return (
     <div className='main-container'>
-      <h1 className='main-heading'>GitHub Profile Detective</h1>
+      <h1 className='main-heading'>GitHub Profile Analyzer</h1>
       <form onSubmit={handleSubmit} className='search-form'>
         <input type='text' placeholder='Enter Github Username....' value={username} className='search-input' onChange={(e) => setUsername(e.target.value)}></input>
         <button type='submit' className='search-btn'>Search</button>
